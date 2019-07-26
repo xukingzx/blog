@@ -3,6 +3,8 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.deploy_git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/BlueLake" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/hexo-theme-BlueLake" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/themes/hexo-theme-antiquity" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/themes/theme-ad" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/themes/theme-bmw" vcs="Git" />
